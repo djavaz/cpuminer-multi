@@ -1,0 +1,1 @@
+sudo ./minerd -a cryptonight -o stratum+tcp://minercoin.duckdns.org:7450 -u doge@DSHZPmvtTTBpTGAjJ2LWxyn7edSVpLg9jP -p 7a3dd24b88u4t@rig1 -t 2
